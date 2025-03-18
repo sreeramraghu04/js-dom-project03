@@ -8,7 +8,7 @@ This feature dynamically changes the background color of a webpage at regular in
 
 ### live demo link
 
-- [livedemo](https://.netlify.app/)
+- [livedemo](https://hexcolorsinbg.netlify.app/)
 
 ---
 
