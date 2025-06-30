@@ -6,12 +6,12 @@ This feature dynamically changes the background color of a webpage at regular in
 
 ---
 
-### live demo link
-
-- [livedemo](https://hexcolorsinbg.netlify.app/)
-
----
-
-### Live Preview
+### Screenshots
 
 - ![alt text](bg-hexcolors.png)
+
+ --
+
+### Demo Link
+
+- [Live Demo](https://hexcolorsinbg.netlify.app/)
