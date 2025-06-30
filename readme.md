@@ -10,7 +10,7 @@ This feature dynamically changes the background color of a webpage at regular in
 
 - ![alt text](bg-hexcolors.png)
 
- --
+---
 
 ### Demo Link
 
